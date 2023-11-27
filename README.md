@@ -15,6 +15,33 @@ This project is a landing page implemented using Next.js, Tailwind CSS, and Fram
 - Next.js for efficient and fast web development.
 - Tailwind CSS for easy styling and customization.
 
+## Project Structure
+
+```plaintext
+animation-landing-page/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── ...
+├── src/
+│   ├── components/
+│   │   └── NavBar.tsx
+│   ├── pages/
+│   │   ├── api/...
+├── │   ├── _app.tsx
+│   │   ├── index.tsx
+│   │   └── _document.tsx
+│   └── styles/
+│       └── global.css
+│       
+│   
+├── .gitignore
+├── next.config.js
+├── package.json
+├── tsconfig.json
+├── README.md
+└── tailwind.css
+``````
 ## Installation
 
 Before you start, make sure you have Node.js and npm installed on your machine.
@@ -22,7 +49,7 @@ Before you start, make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/animation-landing-page.git
+   git clone https://github.com/redaezziani/animation-landing-page.git
 
     Change into the project directory:
 
