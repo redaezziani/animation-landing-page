@@ -1,3 +1,5 @@
 # animation-landing-page
 
-<img src='./web-site-prev.gif' alt="web-site-prev"/>
+<img
+ width='100%'
+ src='./web-site-prev.gif' alt="web-site-prev"/>
